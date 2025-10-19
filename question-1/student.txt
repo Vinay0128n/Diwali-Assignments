@@ -1,0 +1,10 @@
+Student{rollno=1, sname='Aarav', course='Java', attendancePercentage=85.0, score=92.0, grade='A'}
+Student{rollno=2, sname='Riya', course='Python', attendancePercentage=58.0, score=88.0, grade='null'}
+Student{rollno=3, sname='Karan', course='C++', attendancePercentage=70.0, score=65.0, grade='C'}
+Student{rollno=4, sname='Simran', course='Java', attendancePercentage=95.0, score=91.0, grade='A'}
+Student{rollno=5, sname='Vivek', course='C#', attendancePercentage=40.0, score=75.0, grade='null'}
+Student{rollno=6, sname='Anjali', course='JavaScript', attendancePercentage=82.0, score=69.0, grade='C'}
+Student{rollno=7, sname='Tina', course='Java', attendancePercentage=78.0, score=55.0, grade='D'}
+Student{rollno=8, sname='Rahul', course='Python', attendancePercentage=68.0, score=80.0, grade='B'}
+Student{rollno=9, sname='Pooja', course='C++', attendancePercentage=89.0, score=94.0, grade='A'}
+Student{rollno=10, sname='Nikhil', course='Java', attendancePercentage=72.0, score=60.0, grade='C'}
